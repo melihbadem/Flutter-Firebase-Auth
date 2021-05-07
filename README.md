@@ -1,2 +1,2 @@
-# Flutter-Firebase-Auth
+# Flutter-Firebase-Authentication
 Auth with Flutter and Firebase
